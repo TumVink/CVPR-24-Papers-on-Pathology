@@ -65,7 +65,7 @@ Collection of CVPR papers on pathology image analysis tasks
 
  - paper: https://arxiv.org/html/2402.19326v1
 
- - codes: 
+ - codes: tbd
 
 
 <a name="Interpretability"></a>
