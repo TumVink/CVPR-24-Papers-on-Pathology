@@ -1,4 +1,4 @@
-# CVPR-Papers-on-Pathology-
+# CVPR-Papers-on-Pathology
 Collection of CVPR papers on pathology image analysis tasks
 
 ## [CVPR2024] Foundation Model
