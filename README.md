@@ -1,7 +1,22 @@
 # CVPR-Papers-on-Pathology
 Collection of CVPR papers on pathology image analysis tasks
 
-## Foundation Model
+# Topics
+
+- [Foundation Model](#Foundation_Model)
+- [Multi-modalities: Visual-Language](#Visual-Language)
+- [Interpretability](#Interpretability)
+- [Segmentation](#Segmentation)
+- [Representation learning](#Representation_learning)
+- [Graph](#Graph)
+
+
+
+
+
+<a name="Foundation_Model"></a>
+
+# Foundation Model
 
 **Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology**
 
@@ -24,7 +39,8 @@ Collection of CVPR papers on pathology image analysis tasks
  - codes: https://github.com/aldraus/quilt-llava
 
 
-## Multi-modalities: Visual-Language 
+<a name="Visual-Language"></a>
+# Multi-modalities: Visual-Language
 
 **Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework**
 
@@ -52,8 +68,8 @@ Collection of CVPR papers on pathology image analysis tasks
  - codes: 
 
 
-
-## Interpretability
+<a name="Interpretability"></a>
+# Interpretability
 
 **SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology**
 
@@ -61,7 +77,8 @@ Collection of CVPR papers on pathology image analysis tasks
 
  - codes: tbd
 
-## Segmentation
+<a name="Segmentation"></a>
+# Segmentation
 
 **PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation**
 
@@ -69,7 +86,8 @@ Collection of CVPR papers on pathology image analysis tasks
 
  - codes: tbd
 
-## Representation learning
+<a name="Representation_learning"></a>
+# Representation learning
 
 **Rotation-Agnostic Image Representation Learning for Digital Pathology**
 
@@ -90,7 +108,8 @@ Collection of CVPR papers on pathology image analysis tasks
  - codes: https://link.zhihu.com/?target=https%3A//github.com/nicoboou/chada_vit
 
 
-## Graph
+<a name="Graph"></a>
+# Graph
 **Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis**
 
  - paper:  https://arxiv.org/abs/2403.07719
