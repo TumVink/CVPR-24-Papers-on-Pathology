@@ -45,6 +45,13 @@ Collection of CVPR papers on pathology image analysis tasks
 
  - codes: tbd
 
+**Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction**
+
+ - paper: https://arxiv.org/html/2402.19326v1
+
+ - codes: 
+
+
 
 ## Interpretability
 
@@ -76,12 +83,20 @@ Collection of CVPR papers on pathology image analysis tasks
 
  - codes: tbd
 
+**ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images**
+
+ - paper: https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2311.15264
+
+ - codes: https://link.zhihu.com/?target=https%3A//github.com/nicoboou/chada_vit
+
+
 ## Graph
 **Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis**
 
  - paper:  https://arxiv.org/abs/2403.07719
 
  - codes: https://github.com/WonderLandxD/WiKG
+
 
 
 
