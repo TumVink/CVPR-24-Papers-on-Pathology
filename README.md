@@ -9,7 +9,7 @@ Collection of CVPR papers on pathology image analysis tasks
 - [Segmentation](#Segmentation)
 - [Representation learning](#Representation_learning)
 - [Graph](#Graph)
-
+- [Reinforcement learning](#Reinforcement learning)
 
 
 
