@@ -9,7 +9,7 @@ Collection of CVPR papers on pathology image analysis tasks
 - [Segmentation](#Segmentation)
 - [Representation learning](#Representation_learning)
 - [Graph](#Graph)
-- [Reinforcement learning](#Reinforcement learning)
+- [Reinforcement learning](#Reinforcement_learning)
 
 
 
@@ -122,7 +122,7 @@ Collection of CVPR papers on pathology image analysis tasks
  - codes: https://github.com/WonderLandxD/WiKG
 
 
-<a name="Reinforcement learning"></a>
+<a name="Reinforcement_learning"></a>
 # Reinforcement learning
 **Dynamic Policy-Driven Adaptive Multi-Instance Learning for Whole Slide Image Classification**
 
