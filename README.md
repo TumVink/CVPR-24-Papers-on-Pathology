@@ -9,7 +9,7 @@ Collection of CVPR papers on pathology image analysis tasks
 - [Segmentation](#Segmentation)
 - [Representation learning](#Representation_learning)
 - [Graph](#Graph)
-
+- [Reinforcement learning](#Reinforcement_learning)
 
 
 
@@ -33,7 +33,7 @@ Collection of CVPR papers on pathology image analysis tasks
 **Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**
 
  - homepage: https://quilt-llava.github.io/
- 
+
  - paper: https://arxiv.org/abs/2312.04746
 
  - codes: https://github.com/aldraus/quilt-llava
@@ -54,6 +54,11 @@ Collection of CVPR papers on pathology image analysis tasks
  - homepage: https://cplip.github.io/
  - paper: tbd
  - codes: https://github.com/iyyakuttiiyappan/CPLIP
+
+**ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification**
+
+ - paper: tbd
+ - codes: tbd
 
 **Transcriptomics-guided Slide Representation Learning in Computational Pathology**
 
@@ -117,5 +122,10 @@ Collection of CVPR papers on pathology image analysis tasks
  - codes: https://github.com/WonderLandxD/WiKG
 
 
+<a name="Reinforcement_learning"></a>
+# Reinforcement learning
+**Dynamic Policy-Driven Adaptive Multi-Instance Learning for Whole Slide Image Classification**
 
+ - paper:  https://arxiv.org/abs/2403.07939
 
+ - codes: https://github.com/titizheng/PAMIL
