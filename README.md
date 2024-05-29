@@ -29,6 +29,7 @@ Collection of CVPR papers on pathology image analysis tasks
  - paper: tbd
 
  - codes: tbd
+ - youtube: https://www.youtube.com/watch?v=NVvSgUNN2ro
 
 **Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**
 
@@ -62,9 +63,9 @@ Collection of CVPR papers on pathology image analysis tasks
 
 **Transcriptomics-guided Slide Representation Learning in Computational Pathology**
 
- - paper: tbd
+ - paper: https://arxiv.org/abs/2405.11618
 
- - codes: tbd
+ - codes: https://github.com/mahmoodlab/TANGLE
 
 **Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction**
 
@@ -102,9 +103,9 @@ Collection of CVPR papers on pathology image analysis tasks
 
 **Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology**
 
- - paper:  tbd
+ - paper:  https://arxiv.org/abs/2405.11643
 
- - codes: tbd
+ - codes: https://github.com/mahmoodlab/Panther
 
 **ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images**
 
